@@ -1,0 +1,16 @@
+Saya Witri Sulanjar mengerjakan evaluasi TP1 dalam mata kuliah Pemrograman Berorientasi Objek
+untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+Kesulitan :
+-banyak waktu terbuang untuk mencari jawaban dan sulit mendapatkannya pada saat searching
+-tidak begitu tau tools visual studio jadi pengerjaanya lama
+
+
+Hal yang baru dipelajari:
+- jika ada 2 form, bisa memanggil form kedua dari form pertama
+- menyembunyikan form
+- menabahkan gambar atau icon
+- perintah untuk pergi ke link yang ada di LinkLabel bisa digunakan di Button sehingga jadi LinkButton
+
+Fitur yang sudah dikerjakan:
+- Form login sudah jalan dan jika login benar akan pindah ke form menu utama, jika salah ada pesan salah,dan ingatkan password salah
